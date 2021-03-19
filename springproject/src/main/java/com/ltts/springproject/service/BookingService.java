@@ -1,4 +1,4 @@
-package com.ltts.springproject;
+package com.ltts.springproject.service;
 
 import java.util.List;
 

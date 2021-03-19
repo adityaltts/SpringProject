@@ -1,4 +1,4 @@
-package com.ltts.springproject;
+package com.ltts.springproject.model;
 
 import javax.persistence.Id;
 import javax.persistence.Entity;
